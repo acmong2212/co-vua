@@ -1,0 +1,58 @@
+.columnHeight {
+    width: 50px;
+    height: 50px;
+}
+.white {
+    background: white;
+}
+.black {
+    background: black;
+}
+.yellow {
+    background: orange;
+}
+
+.text-size {
+    font-size: 25px;
+    font-weight: bold;
+}
+.red {
+    background: red;
+}
+.blue {
+    background: blue;
+}
+.text-white {
+    color: white;
+    padding: 10px;
+}
+.text-blue {
+    color: blue;
+}
+.border {
+    border: ridge;
+}
+.title{
+    display: flex;
+}
+.padding {
+    padding: 10px 15px;
+    margin-left: 1px;
+    font-size: 16px;
+}
+table, td, th {
+    border-collapse: collapse;
+    border: 1px solid;
+    padding: 7px;
+    text-align: center;
+}
+.margin {
+    margin-left: 91px;
+    color: blue;
+}
+.text-red {
+    color: red;
+}
+
+
+
